@@ -1,0 +1,16 @@
+header {
+    font-size: 200%;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
+li {
+    margin-left: 20px;
+    text-decoration: none;
+}
